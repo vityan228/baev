@@ -1,0 +1,372 @@
+@media (min-width: 1200px) {
+
+
+	
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+   .top-fields {
+      font-size: 14px;
+  }
+
+  .calc-top{
+   font-size: 15px;
+
+}
+
+.units {
+    margin-top: 50px;
+}
+
+.nav {
+    letter-spacing: 0;
+}
+
+.nav-pills > li + li {
+    margin-left: 2px;
+}
+
+.footer-menu3 {
+    float: left;
+    margin-right: 4%;
+}
+
+.footer-menu2 {
+    float: left;
+    margin-right: 4%;
+}
+
+.main-right-facture {
+    height: 293px;
+    margin-top: 21px;
+    font-size: 15px;
+}
+
+
+.result {
+    margin-top: 26px;
+}
+
+.result h1{
+	font-size: 2.0rem;
+
+}
+.wrapper-top{
+	margin-top: 0px;
+	font-size: 1.9em;
+}
+
+
+span.sogl {
+	font-size: 12px;
+}
+
+.foot2 {
+    margin-right: -9px;
+}
+
+.info-bot{
+	font-size: 12px;
+}
+
+.main-right h4{
+	font-size: 20px;
+}
+.bot-col h3{
+	font-size: 1.3rem;
+}
+
+}
+@media (max-width: 991px) {
+	
+.calc-top{
+    display: none;
+}
+
+.nav-pills li a { 
+    color: #005FA3;
+    font-size: 12px;
+} 
+
+.nav-pills > li + li {
+    margin-left:0; 
+}
+
+
+
+.cost {
+    float: right;
+    margin: -56px 87px 0 0 ;
+}
+
+hr.hr1{
+	width: 237.01px;
+	margin-top: -9px;
+    margin-left: 343px;
+}
+
+.bot-col h3{
+	font-size: 1.35rem;
+}
+
+.top{
+	font-size: 15px;
+}
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+	
+
+
+.main-right-facture{
+    margin-left: 36px;
+}
+
+.phone-info{
+    margin-left: 15px;
+}
+.top-fields{
+    font-size: 15px;
+}
+.phone {
+    width: 100%;
+    margin-top: 44px;
+    margin-left: 15px;
+}
+.fad2 {
+    position: absolute;
+    top: 48px;
+    left: 8px;
+ }
+.main2{
+    padding-bottom: 34px;
+}
+
+
+}
+
+@media (max-width: 767px) {
+	
+.with-white::after{
+    display: none
+}
+
+.with-white {
+    position:fixed;
+    height: 60px;
+    background-color: white;
+    width: 100%;
+    box-shadow: -4px -4px 40px rgba(0, 95, 163, 0.25), 4px 4px 40px rgba(0, 95, 163, 0.25);
+}
+
+.footer-menu h3:after {
+    display: block;
+}
+
+.wrapper{
+	margin-top: 90px;
+}
+
+.bot-menu ul{
+    display: none;
+}
+.footer-menu-company{
+    width: 100%;
+}
+.footer-menu-catalog{
+    width: 100%;
+}
+.footer-menu-service{
+    width: 100%;
+}
+.footer-menu-design{
+    width: 100%;
+}
+
+.with-white img {
+    width: 79px;
+    height: 50px;
+    margin-bottom: 23px;
+    margin-top: 3px;
+}
+
+
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+	
+.cost{
+    margin-top: -13px;
+    float: left;
+    margin-right: 0;
+}
+
+
+.footer-menu h3 {
+    position: relative;
+}
+
+
+.left-div{
+     margin-top: 38px;
+ }
+ .bot-menu ul{
+  text-align: center;
+}
+
+.bot-menu h3{
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid white;
+}
+.mobile-menu {
+    cursor: pointer;
+    width: 24px;
+    height: 24px;
+    top: 25px;
+    bottom: 0;
+    right: 15px;
+    position: absolute;
+    display: inline-block;
+    transition: 0.3s ease;
+    margin-right: 79px;
+}
+
+.main-right {
+	height: 100%;;
+}
+
+img {
+    width: 79px;
+    height: 50px;
+    margin-bottom: 23px;
+    margin-top: 3px;
+    margin-left: 120px;
+}
+.info-bot{
+    text-align: center;
+}
+
+.main-right-facture {
+	margin-left: 18px;
+    width: 322px;
+}
+hr.hr1{
+	display: none;
+}
+.nice-select {
+    height: 40px;
+    width: 100%;
+    color: #005FA3;
+    border-radius: 0px !important;
+}
+header {
+    background-color: #005FA3;
+    width: 0px;
+}
+
+
+}
+@media (max-width: 575px) {
+	
+.footer-menu h3:after {
+    content: "";
+    position: absolute;
+    right: 10px;
+    width: 16px;
+    height: 16px;
+    transform: rotate(45deg);
+    border-bottom: 2px solid #fff;
+    border-right: 2px solid #fff;
+    transition: 0.3s;
+}
+
+  .footer-menu h3.arrt:after{
+    transform: rotate(225deg); 
+}
+
+img{
+    margin-left:23px;
+}
+
+.bot-menu ul{
+  text-align: center;
+}
+
+.left-div{
+    margin-top: 47px;
+}
+
+.result{
+	margin-top: 25px;
+}
+.main2{
+    padding-left: 0;
+}
+.main-right-characteristic{
+    margin-left: 3px;
+}
+
+hr.hr1 {
+    width: 237.01px;
+    margin-top: -9px;
+    margin-left: 4px;
+}
+.units{
+    margin-left: 35px;
+}
+.cost {
+    margin-top: -13px;
+    float: left;
+    margin-right: 87px;
+    margin-top: ;
+}
+.nice-select{
+	height: 49px;
+}
+
+
+.main-right {
+    height: 100%;
+
+}
+
+.main-right-characteristic input{
+    margin-right: -60px;
+}
+
+.bot-col h3 {
+    font-size: 1.35rem;
+    text-align: center;
+}
+.info-bot{
+    text-align: center;
+}
+
+.main-right-facture{
+    width: 100%;
+    padding-left: 47px;
+}
+
+
+.bot-menu h3{
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid white;
+}
+.left-div{
+    margin-top: 47px;
+}
+
+
+.wrapper-top{
+    font-size: 1.3em;
+}
+.result-cost{
+   font-size: 1.3em;
+}
+}

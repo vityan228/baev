@@ -1,0 +1,90 @@
+body {
+	background-color: #003459;
+	font-family: Roboto;
+	font-style: normal;
+}
+.div{
+	height: 480px;
+	width: 450px;
+	background-color: white;
+	position: absolute;
+	top: 25%;
+	left: 38%;
+}
+
+.pass-div{
+	margin-top:  20px;
+}
+.auth{
+	color:#005FA3;
+	text-align: center;
+	font-weight: bold;
+}
+.login-lettres{
+	text-align: left;
+	display: block;
+	margin-left: 38px;
+	margin-bottom: 6px;
+	font-size: 22px;
+}
+.pass-lettres{
+	text-align: left;
+	display: block;
+	margin-left: 38px;
+	margin-bottom: 6px;
+	font-size: 22px;
+}
+
+.info{
+	display: block;
+	margin-left: 38px;
+	font-size: 20px;
+}
+	
+
+.log-pass-div{
+	margin-top: 30px;
+	text-align: center;
+}
+.log-pass{
+	clear: both;
+}
+.submit-auth{
+
+	background-color: white;
+	color: #005FA3;
+	letter-spacing: 0.05em;
+	font-size: 30px;
+	text-align: center;
+	border:2px solid #005FA3;
+	margin-top: 11%;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.btn-auth{
+	text-align: center;
+}
+
+#login_auth, #pass_auth{
+	    font-size: 20px;
+    display: block;
+    padding: 0 10px;
+    margin: auto;
+    width: 370px;
+}
+input{
+	width: 370px;
+	height: 50px;
+	border:2px solid #005FA3;
+
+	color:#005FA3 ;
+
+}
+
+input[type="text"]::-webkit-input-placeholder {
+	color: #005FA3;
+	/*padding-left: 15px;*/
+} 
+
+
+
